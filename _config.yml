@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: Clean portfolio theme for Jekyll powered by ZhangYao.
 email: 1207338015@qq.com
 brand: ZhangYao
 headline: English learner
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: ZhangYao999. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -20,6 +20,6 @@ snapwidget: 247552
 email: 1207338015@qq.com
 phone: 13042313610
 
-# Tracking
-weibo: Flaminogo
+# My friends
+
 
